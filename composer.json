@@ -1,0 +1,14 @@
+{
+    "name": "flsouto/alert",
+    "description": "shows a message in a javascript alert box",
+    "type": "library",
+    "keywords" : ["javascript","html","ui"],
+    "authors": [
+        {
+            "name": "fabio",
+            "email": "fabiolimasouto@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
